@@ -1,0 +1,24 @@
+.no_encotrado {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.no_encotrado h1 {
+    color: black;
+}
+.no_encotrado a {
+    text-decoration: none;
+    color: var(--primary);
+    font-size: 3rem;
+    margin: 0;
+    padding: 1rem 5rem;
+    /*border: 2px solid var(--primary);
+    transition-duration: 0.8s;
+    transition-property: background-color; */
+}
+/*.no_encotrado a:hover {
+    background-color:var(--primary);
+    color: #fff;
+} */
